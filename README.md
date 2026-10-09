@@ -14,6 +14,8 @@ Install Jenkins, configure Docker as agent, set up cicd, deploy applications to 
 
 ## AWS EC2 Instance
 
+
+
 - Go to AWS Console
 - Instances(running)
 - Launch instances
